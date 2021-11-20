@@ -1,6 +1,6 @@
 <div align='center'><h1> ⚡ Raifhack DS 2021 ⚡ </h1></div>
 
-RaifhackDS - онлайн-хакатон Райффайзенбанка в области Data Science. 
+RaifhackDS - [онлайн-хакатон](https://raifhack.ru/) Райффайзенбанка в области Data Science. 
 
 В данном репозитории представлено решение задачи хакатона в виде [jupyter ноутбука](./notebooks), в дальнейшем адаптированное под [пакет python](./raiflib) и demo-сервис по оценке коммерческой недвижимости.
 
